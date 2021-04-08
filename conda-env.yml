@@ -1,0 +1,9 @@
+name: causal-rl
+channels:
+  - conda-forge
+dependencies:
+  - python >=3.6
+  - scipy >=1.6
+  - matplotlib >=3.3
+  - pytorch =1.13
+  - gym =0.21
